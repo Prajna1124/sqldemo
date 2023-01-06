@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'prothinkorg'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C1037965BB44E38A64E2A6C76A907B1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA79BBEBB18E4700AA8CA42799517183 }}
           package: '*.jar'
